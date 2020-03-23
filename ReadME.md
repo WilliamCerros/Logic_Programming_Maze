@@ -1,0 +1,1 @@
+Program uses the Kanren Logical Programming library to create a maze where users must find their way out.
